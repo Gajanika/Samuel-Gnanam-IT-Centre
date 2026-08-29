@@ -1,0 +1,5 @@
+program minimum;
+begin
+
+end.
+

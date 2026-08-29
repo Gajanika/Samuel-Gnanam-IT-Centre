@@ -1,23 +1,23 @@
-program  Maximum;
- var    Max,i,num:Integer;
+program Maximum;
+var
+  Max, i, num: Integer;
 begin
-      writeln('Enter a numbers  5');
-        for i:=1 to 5 do
-          begin
-              readln(num);
-             writeln( 'no', i);
-     if i = 1 then
-         max := num
-     else if (num>max) then
-           else if num>max then
-               max := num;
-          end;
+  writeln('Enter 5 numbers:');
 
-         writeln('Maximun', Max);
+  for i := 1 to 5 do
+  begin
+    readln(num);
+    writeln('no ', i, ': ', num);
 
+    if i = 1 then
+      Max := num
 
+    else if num > Max then
+      Max := num;
+  end;
 
+  writeln('Maximum: ', Max);
 
+  readln;
+end.
 
-readln;
-  end.

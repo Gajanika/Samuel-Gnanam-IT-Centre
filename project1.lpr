@@ -12,7 +12,7 @@ begin
     if i = 1 then
       Max := num
 
-    else if num > Max then
+    else if num >  Max then
       Max := num;
   end;
 
