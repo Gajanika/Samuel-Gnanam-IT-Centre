@@ -10,13 +10,13 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="Maximum"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="3"/>
-        <CursorPos X="4" Y="11"/>
+        <TopLine Value="2"/>
+        <CursorPos X="17" Y="14"/>
         <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="4">
+    <JumpHistory HistoryIndex="2">
       <Position>
         <Filename Value="project1.lpr"/>
         <Caret Line="8" Column="25"/>
@@ -28,14 +28,6 @@
       <Position>
         <Filename Value="project1.lpr"/>
         <Caret Line="15" Column="28"/>
-      </Position>
-      <Position>
-        <Filename Value="project1.lpr"/>
-        <Caret Line="21" Column="90" TopLine="6"/>
-      </Position>
-      <Position>
-        <Filename Value="project1.lpr"/>
-        <Caret Line="24" TopLine="6"/>
       </Position>
     </JumpHistory>
     <RunParams>
